@@ -1,0 +1,1 @@
+{"id":"2b7f4983-cbb1-4904-88ee-edecae255b7f","name":"StartForm","model":{"processName":"Cabaret","processId":"Wiedzmin-1.Cabaret","name":"process","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.process.BusinessProcessFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
