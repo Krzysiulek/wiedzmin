@@ -1,0 +1,9 @@
+package com.myspace.wiedzmin;
+
+import java.lang.Number;
+
+rule "WhereIsKeyRule"
+	dialect "mvel"
+	when
+	then
+end
