@@ -1,0 +1,1 @@
+{"id":"86bcb171-b0ea-44a4-a748-f8346836218e","name":"GeraltKeySearch-taskform","model":{"taskName":"GeraltKeySearch","processId":"Wiedzmin-1.Cabaret","name":"task","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
