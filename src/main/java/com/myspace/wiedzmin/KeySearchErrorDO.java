@@ -6,12 +6,23 @@ package com.myspace.wiedzmin;
 
 public class KeySearchErrorDO implements java.io.Serializable {
 
-    static final long serialVersionUID = 1L;
+	static final long serialVersionUID = 1L;
 
-    public KeySearchErrorDO() {
-    }
+	private java.lang.String error;
 
+	public KeySearchErrorDO() {
+	}
 
+	public java.lang.String getError() {
+		return this.error;
+	}
 
+	public void setError(java.lang.String error) {
+		this.error = error;
+	}
+
+	public KeySearchErrorDO(java.lang.String error) {
+		this.error = error;
+	}
 
 }
