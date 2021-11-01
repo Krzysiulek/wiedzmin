@@ -10,6 +10,8 @@ public class RadioObject implements java.io.Serializable {
 
 	private java.lang.String text;
 
+	private java.lang.String value;
+
 	public RadioObject() {
 	}
 
@@ -21,8 +23,17 @@ public class RadioObject implements java.io.Serializable {
 		this.text = text;
 	}
 
-	public RadioObject(java.lang.String text) {
+	public java.lang.String getValue() {
+		return this.value;
+	}
+
+	public void setValue(java.lang.String value) {
+		this.value = value;
+	}
+
+	public RadioObject(java.lang.String text, java.lang.String value) {
 		this.text = text;
+		this.value = value;
 	}
 
 }
