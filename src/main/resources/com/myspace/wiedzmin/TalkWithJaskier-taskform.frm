@@ -1,0 +1,1 @@
+{"id":"8aeffe7c-df6a-4ff7-8909-1a072cc4ab04","name":"TalkWithJaskier-taskform","model":{"taskName":"TalkWithJaskier","processId":"Wiedzmin-1.Cabaret","name":"task","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
