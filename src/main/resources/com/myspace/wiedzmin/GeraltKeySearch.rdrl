@@ -1,0 +1,9 @@
+package com.myspace.wiedzmin;
+
+import java.lang.Number;
+
+rule "GeraltKeySearch"
+	dialect "mvel"
+	when
+	then
+end
