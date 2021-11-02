@@ -1,0 +1,1 @@
+{"id":"4a3a7f34-d645-4649-bf8c-4314dcf7af3c","name":" GeraltKeySearch","model":{"source":"INTERNAL","className":"com.myspace.wiedzmin.GeraltKeySearch","name":"GeraltKeySearch","properties":[],"formModelType":"org.kie.workbench.common.forms.data.modeller.model.DataObjectFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
