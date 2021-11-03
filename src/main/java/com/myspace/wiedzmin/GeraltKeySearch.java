@@ -8,21 +8,21 @@ public class GeraltKeySearch implements java.io.Serializable {
 
 	static final long serialVersionUID = 1L;
 
-	@org.kie.api.definition.type.Label(value = "fightDone")
-	private java.lang.Boolean fightDone;
+	@org.kie.api.definition.type.Label("fightDone")
+	private boolean fightDone;
 
 	public GeraltKeySearch() {
 	}
 
-	public java.lang.Boolean getFightDone() {
+	public boolean isFightDone() {
 		return this.fightDone;
 	}
 
-	public void setFightDone(java.lang.Boolean fightDone) {
+	public void setFightDone(boolean fightDone) {
 		this.fightDone = fightDone;
 	}
 
-	public GeraltKeySearch(java.lang.Boolean fightDone) {
+	public GeraltKeySearch(boolean fightDone) {
 		this.fightDone = fightDone;
 	}
 
