@@ -5,7 +5,7 @@ import java.lang.Number;
 rule "GeraltKeySearch"
 	dialect "mvel"
 	when
-		GeraltKeySearch( )
+		GeraltKeySearch( fightDone == false )
 	then
 		insert( new KeySearchErrorDO() );
 end
